@@ -9,4 +9,8 @@ required binaries
 ```
 # for screenshots
 sudo apt install flameshot
+
+# for bluetooth
+sudo apt install bluez blueman
+sudo systemctl enable --now bluetooth
 ```
